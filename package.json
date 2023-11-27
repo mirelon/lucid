@@ -1,6 +1,6 @@
 {
   "name": "lucid-cardano",
-  "main": "dist/esm/mod.js"
+  "main": "dist/esm/mod.js",
   "version": "0.10.7",
   "license": "MIT",
   "author": "Alessandro Konrad",
